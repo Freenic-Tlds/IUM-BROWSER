@@ -7,5 +7,6 @@ IUM Browser is an open-source web browser designed to be fast, secure, and highl
 **AI Integration**: Smart suggestions, predictive text, and personalized content recommendations. -
 ## Contributing 
 We welcome contributions from the community! To contribute to IUM Browser, follow these steps: 1. **Fork the repository** and clone it to your local machine. 2. **modify something** Make it useful!. 3. **Make your changes** and commit them with a clear and descriptive message. 4. **Push your branch** to your fork and submit a pull request. Please make sure to follow our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md). 
-## License IUM Browser is licensed under the Nayvori License 1.0 . See the [LICENSE](license.txt) file for more details. 
+## License 
+IUM Browser is licensed under the Nayvori License 1.0 . See the [LICENSE](license.txt) file for more details. 
 ## Contact For any questions or support, please open an issue on GitHub or contact us at [your-email@example.com]. --- Feel free to customize this README to better fit your project's specifics. Good luck with IUM Browser!
