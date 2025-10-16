@@ -1,0 +1,33 @@
+NAYVORI
+
+Full License Text
+
+NAYVORI LICENSE 1.0
+
+Copyright © 2025 nayvori
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software for any purpose, including commercial use, subject to the following conditions:
+
+1. Attribution
+You must provide clear attribution to the original author.
+Attribution must be included either:
+In a file named CREDITS.TXT distributed with the Software, or
+Within the source code as a comment in a prominent location.
+The attribution must include:
+The original author’s name (if provided),
+The statement: Licensed under the Nayvori License 1.0 (https://nayvori.netlify.app/license)
+This attribution may not be removed or altered in modified or redistributed versions of the Software.
+2. Use of Trademarks
+The name, logo, or any trademarks associated with the Software may only be used:
+Within CREDITS.TXT, or
+In the source code solely for attribution purposes, as specified above.
+Any other use of the Software’s name, branding, or trademarks requires prior written permission from the original author or rights holder.
+3. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. License Distribution
+
+A copy of this license must be included with all substantial portions of the Software and any derivative works.
+
+End of License
